@@ -45,6 +45,12 @@
 
 ## Output:
 <img width="1587" height="842" alt="image" src="https://github.com/user-attachments/assets/a33a7884-2d69-45c1-b5f9-6945e31d1039" />
+<img width="1083" height="706" alt="Screenshot 2026-03-18 134420" src="https://github.com/user-attachments/assets/fdbd6b6b-b5e2-4386-b9e9-260855e39d14" />
+<img width="852" height="923" alt="Screenshot 2026-03-18 134432" src="https://github.com/user-attachments/assets/d0c1bf75-0ee6-4233-93b1-339553fce707" />
+<img width="1053" height="591" alt="Screenshot 2026-03-18 134502" src="https://github.com/user-attachments/assets/97cc6bfb-face-46c4-9c16-a0445b33b24c" />
+<img width="707" height="931" alt="Screenshot 2026-03-18 134513" src="https://github.com/user-attachments/assets/db62eaf9-750e-4223-b35f-f27d3ed7786a" />
+<img width="637" height="912" alt="Screenshot 2026-03-18 134522" src="https://github.com/user-attachments/assets/4449f5cf-44a4-4637-92f5-0003316b4adf" />
+<img width="746" height="664" alt="Screenshot 2026-03-18 134531" src="https://github.com/user-attachments/assets/6ff2d4e9-117a-4744-a8cb-ae37f70509b7" />
 
 ### Name:Ramya L
 ### Register Number:212225040330
